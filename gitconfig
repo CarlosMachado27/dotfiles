@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = carlosmachado05@hotmail.com
+	name = Carlos Machado
